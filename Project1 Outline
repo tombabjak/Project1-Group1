@@ -1,0 +1,36 @@
+Project title - Predicting future New Jersey travel trends as a result of Covid
+
+Project Team
+	• Tom
+	• Fleming
+	• Alex
+	• Mona
+	
+Project Description
+	• We are a team of data analysts working for a NJ based travel industry company that need to be able to help our business executives make key decisions for travel post Covid.  Our task is to understand the past travel habits of New Jersey residents, analyzing the impact of Covid on spending habits, and providing  analysis on what travel habits may look like post Covid.
+	• Analysis that we need to perform include answering questions such as:
+		1. Analyze past travel over a five-year period to understand where NJ residents travel 
+			i. How is travel distributed across the local airports (e.g. LGA, EWR, PHL) 
+			ii. Effects on Covid-19 on travel behavior
+		2. What are the traveler profiles
+			i. Is there a correlation between household income and likeliness to travel?
+			ii. What is the distribution of travelers based on household (e.g. single, families)?
+		3. Predictions on Covid wrangling/relief - when things begin to open up (e.g. what would it take for the country to feel safe to travel)
+			i. what would businesses need to be ready for (e.g. staffed properly)?
+			ii. Explore likelihood of past travel expectations (e.g. first class) post Covid?
+			iii. Prediction: Travel in Summer 2021 will likely be higher than last year
+
+Datasets to be used may include:
+	• New Jersey residents household data (e.g. possibly census or local sources (nj.gov)) (U.S. Census Bureau QuickFacts: New Jersey)
+	• US Department of Transportation (https://data.bts.gov/Research-and-Statistics/Trips-by-Distance/w96p-f2qv)
+	• TSA travel statistics https://www.tsa.gov/coronavirus/passenger-throughput 
+	• Kaggle datasets (e.g. travel) 
+		
+Tasks
+	• Initial investigation into Covid (Fleming)
+	• Team regroups on Monday Jan 25 to further refine our tasks and will start to work on data collection (which may require manual effort as soon some data may not be readily as CSV downloads.
+
+Meetings:
+	Tuesday 1/26 7:30-9:30
+	Thursday 1/28 7:30-9:30 
+	Sunday  1/31  3:00 - 6:00
