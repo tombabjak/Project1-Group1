@@ -1,12 +1,10 @@
 # Covid-19 Effects and Projections
 Project 1, Group 1 - February 2021   
 
-Tom Babjak,  
-Fleming Brathwaite, 
-Alexander Gonzalez, 
-Mona Peteet
+Tom Babjak, Fleming Brathwaite, Alexander Gonzalez, Mona Peteet
 
 Motivation & Summary:
+
 Hypothesis:
 If the covid pandemic affected the travelling economy then a decrease in mobility across various forms of transportation would be expected.
 
@@ -29,6 +27,7 @@ Explore causal factors explaining recovery aspects (e.g. drops in unemployment c
 Analyze the household spending activities (e.g. what are people spending on?)
 
 Resources:
+
 https://datausa.io/profile/geo/new-jersey#:~:text=Median%20Household%20Income,-%2481%2C740&text=Households%20in%20New%20Jersey%20have,represents%20a%202.06%25%20annual%20growth.   
 https://www.ustravel.org/sites/default/files/media_root/document/TE_Coronavirus_WeeklyImpacts_01.22.21.pdf   
 https://www.ustravel.org/toolkit/covid-19-travel-industry-research   
