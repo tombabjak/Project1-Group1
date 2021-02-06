@@ -34,3 +34,6 @@ https://www.ustravel.org/toolkit/covid-19-travel-industry-research
 https://www.tsa.gov/coronavirus/passenger-throughput   
 https://data.bts.gov/Research-and-Statistics/Trips-by-Distance/w96p-f2qv   
 https://www.bloomberg.com/graphics/2020-united-states-coronavirus-outbreak/   
+
+Google Slide Presentation:
+https://docs.google.com/presentation/d/1ohDAUDU-vfpyRrK4nzmc8xP5TybUJ-3h8_ii6WnFOq4/edit?ts=6010ca3b#slide=id.gb9a9893128_1_38
